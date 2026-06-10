@@ -2,11 +2,11 @@
   
   ## Swiggy Analytics: End-to-End Data Pipeline & Interactive Dashboard
 
-📝 Short Description
+📝 Short Description:
 
 This repository features an end-to-end data analytics project that cleans, processes, and visualizes Swiggy's food delivery data. The project demonstrates a complete data engineering and analytics workflow: transforming messy raw data using Python (Pandas), building a robust connection string to export data into a structured MySQL Database, optimizing database storage, and finally connecting it live to Power BI to build an interactive business dashboard for tracking key performance indicators (KPIs) like revenue, top dishes, and customer ratings.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 
 Data Manipulation & ETL: Python 3.14 (Pandas)
 
@@ -16,13 +16,13 @@ Database Connectivity Drivers: SQLAlchemy, PyMySQL / mysql-connector-python, Cry
 
 Business Intelligence & Visualization: Power BI Desktop
 
-📊 Data Source
+📊 Data Source:
 
 Dataset: Swiggy Restaurant & Orders Dataset (Cleaned_swiggy_Data.csv)
 
 Data Points Included: Order Date (Year, Month, Day), Restaurant Name, Location (City, State), Dish Category (e.g., Recommended, North Indian Gravy), Dish Name, Price, Rating, and Rating Count.
 
-🚀 Key Features
+🚀 Key Features:
 
 Automated Python ETL Pipeline: Cleaned structural anomalies, handled missing data, and filtered records using Pandas. Used SQLAlchemy to systematically load data frames directly into SQL tables.
 
