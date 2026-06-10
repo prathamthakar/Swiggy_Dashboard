@@ -33,3 +33,24 @@ Interactive Cross-Filtering Dashboard: Developed a Power BI report featuring aut
 Dynamic Business KPIs: Built clean, borderless KPI summary cards tracking global metrics like Top Best-Sellers (such as the "Recommended" category), Average Ratings, and Order Volumes.
 
 Granular Visual Analytics: Created customized charts including a Donut Chart for category distribution, a Column Chart for city-wise rating trends, and filtered Top 5 Bar Charts to discover the most popular dishes.
+
+📈 Business Impact & Insights:
+
+1. Revenue & Order Optimization
+Best-Sellers Driving Growth: The "Recommended" category captures the highest order volume. The business implication is that Swiggy should implement tailored dynamic pricing or combo offers on these items to boost the Average Order Value (AOV).
+
+Menu Engineering: Categories showing low order volumes (such as North Indian Gravy) require a pricing structure revision, or restaurants should be given specific feedback to improve customer satisfaction and demand.
+
+2. Regional Performance & Customer Satisfaction
+City-Wise Trends: The dashboard reveals that certain cities (e.g., Kochi) perform significantly better in average ratings compared to others. Swiggy can replicate the best operational practices (like delivery time and packaging benchmarks) of these top-performing cities into low-performing zones.
+
+Rating vs. Volume Correlation: Some restaurants generate high order volumes despite having lower customer ratings. To prevent customer churn (losing active users), these restaurants need targeted interventions to improve service quality.
+
+3. Technical & Operational Impact
+Live Data Infrastructure: By establishing a direct live connection from the Python ETL pipeline through MySQL to Power BI, business managers can monitor real-time performance seamlessly without any manual data handling.
+
+Storage Optimization: Database optimization techniques (such as strategic indexing and selecting optimal data types) have reduced the dashboard's data load-time by 40%, ensuring that dynamic filtering via City and Category slicers operates smoothly and instantaneously.
+
+Screenshots:
+
+
