@@ -1,6 +1,5 @@
 # Swiggy_Dashboard
 📌 Project Title
-
 Swiggy Analytics: End-to-End Data Pipeline & Interactive Dashboard
 
 📝 Short Description
