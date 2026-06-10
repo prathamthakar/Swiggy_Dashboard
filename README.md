@@ -1,7 +1,7 @@
 # Swiggy_Dashboard
 📌 Project Title
   
-   Swiggy Analytics: End-to-End Data Pipeline & Interactive Dashboard
+  ## Swiggy Analytics: End-to-End Data Pipeline & Interactive Dashboard
 
 📝 Short Description
 This repository features an end-to-end data analytics project that cleans, processes, and visualizes Swiggy's food delivery data. The project demonstrates a complete data engineering and analytics workflow: transforming messy raw data using Python (Pandas), building a robust connection string to export data into a structured MySQL Database, optimizing database storage, and finally connecting it live to Power BI to build an interactive business dashboard for tracking key performance indicators (KPIs) like revenue, top dishes, and customer ratings.
