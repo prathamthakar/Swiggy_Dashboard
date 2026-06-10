@@ -49,6 +49,5 @@ Live Data Infrastructure: By establishing a direct live connection from the Pyth
 Storage Optimization: Database optimization techniques (such as strategic indexing and selecting optimal data types) have reduced the dashboard's data load-time by 40%, ensuring that dynamic filtering via City and Category slicers operates smoothly and instantaneously.
 
 🖥️ Dashboard Preview
-*(Take a high-quality screenshot of your Power BI dashboard, upload it to your repository as 'dashboard.png', and uncomment the line below)*
-![Swiggy Analytics Dashboard](dashboard.png)
+![Swiggy Analytics Dashboard](https://github.com/prathamthakar/Swiggy_Dashboard/blob/main/Swiggy_dashboard_sc.png)
 
