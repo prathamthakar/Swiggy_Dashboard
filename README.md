@@ -48,7 +48,7 @@ Rating vs. Volume Correlation: Some restaurants generate high order volumes desp
 Live Data Infrastructure: By establishing a direct live connection from the Python ETL pipeline through MySQL to Power BI, business managers can monitor real-time performance seamlessly without any manual data handling.
 Storage Optimization: Database optimization techniques (such as strategic indexing and selecting optimal data types) have reduced the dashboard's data load-time by 40%, ensuring that dynamic filtering via City and Category slicers operates smoothly and instantaneously.
 
-Screenshots:
-
-(https://github.com/prathamthakar/Swiggy_Dashboard/blob/main/Swiggy_dashboard_sc.png)
+🖥️ Dashboard Preview
+*(Take a high-quality screenshot of your Power BI dashboard, upload it to your repository as 'dashboard.png', and uncomment the line below)*
+![Swiggy Analytics Dashboard](dashboard.png)
 
