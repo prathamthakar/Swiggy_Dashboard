@@ -50,5 +50,5 @@ Storage Optimization: Database optimization techniques (such as strategic indexi
 
 Screenshots:
 
-https://github.com/prathamthakar/Swiggy_Dashboard/blob/main/Swiggy_dashboard_sc.png
+(https://github.com/prathamthakar/Swiggy_Dashboard/blob/main/Swiggy_dashboard_sc.png)
 
